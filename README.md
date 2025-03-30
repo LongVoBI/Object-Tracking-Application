@@ -11,7 +11,7 @@ This project demonstrates the power and flexibility of the RISC-V instruction se
 - **Efficient Optimization**: Integrates the **Hungarian Algorithm** for optimal task assignment in tracking applications.
 - **RISC-V Optimization**: Runs efficiently on RISC-V architecture using the VexRiscv CPU core.
   
-For an in-depth understanding of the system design, implementation details, and performance evaluation, refer to the full project report available [here](docs/Logic_Projet_Report.pdf).
+For an in-depth understanding of the system design, implementation details, and performance evaluation, refer to the full project report available [here](docs/Logics_Design.pdf).
 
 **References Section**:
   1. [VexRiscv Ultra96 GitHub Repository](https://github.com/lp6m/VexRiscv_Ultra96)
