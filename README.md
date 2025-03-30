@@ -10,7 +10,7 @@ The **Object Tracking Application** is designed to provide an efficient solution
 - **Efficient Optimization**: Integrates the **Hungarian Algorithm** for optimal task assignment in tracking applications.
 - **RISC-V Optimization**: Runs efficiently on RISC-V architecture using the VexRiscv CPU core.
 
-For an in-depth understanding of the system design, implementation details, and performance evaluation, refer to the full project report available [here](https://github.com/LongVoBI/Object-Tracking-Application/Logics_Design.pdf)
+For an in-depth understanding of the system design, implementation details, and performance evaluation, refer to the full project report available [here](https://github.com/LongVoBI/Object-Tracking-Application/blob/main/Logics_Design.pdf)
 
 **References Section**:
   1. [VexRiscv Ultra96 GitHub Repository](https://github.com/lp6m/VexRiscv_Ultra96)
