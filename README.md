@@ -12,7 +12,7 @@ The **Object Tracking Application** is designed to provide an efficient solution
 
 For an in-depth understanding of the system design, implementation details, and performance evaluation, refer to the full project report available [here](https://github.com/LongVoBI/Object-Tracking-Application/blob/main/Logics_Design.pdf)
 
-**References Section**:
+**References**:
   1. [VexRiscv Ultra96 GitHub Repository](https://github.com/lp6m/VexRiscv_Ultra96)
   2. [AI Edge5 GitHub Repository](https://github.com/ninfueng/aiedge5)
   3. [Hungarian Algorithm in C Language GitHub Repository](https://github.com/mohammadusman/Hungarian-Algorithm-in-C-Language)
