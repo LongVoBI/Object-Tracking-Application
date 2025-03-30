@@ -10,8 +10,10 @@ This project demonstrates the power and flexibility of the RISC-V instruction se
 - **Predictive Tracking**: Implements **Kalman Filter** for continuous tracking and prediction of object locations.
 - **Efficient Optimization**: Integrates the **Hungarian Algorithm** for optimal task assignment in tracking applications.
 - **RISC-V Optimization**: Runs efficiently on RISC-V architecture using the VexRiscv CPU core.
-- 
-**References Section**: Added the 4 GitHub repositories as requested. You can add more references if needed.
+  
+For an in-depth understanding of the system design, implementation details, and performance evaluation, refer to the full project report available [here](docs/Logic_Projet_Report.pdf).
+
+**References Section**:
   1. [VexRiscv Ultra96 GitHub Repository](https://github.com/lp6m/VexRiscv_Ultra96)
   2. [AI Edge5 GitHub Repository](https://github.com/ninfueng/aiedge5)
   3. [Hungarian Algorithm in C Language GitHub Repository](https://github.com/mohammadusman/Hungarian-Algorithm-in-C-Language)
