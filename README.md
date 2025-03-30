@@ -1,5 +1,5 @@
 # Object Tracking Application
-This is LOGIC DESIGN PROJECT (CO3091) Assignment (Semester: 232, Duration: 06 weeks) [Project Requirement]()
+This is LOGIC DESIGN PROJECT (CO3091) Assignment (Semester: 232, Duration: 06 weeks) [Project Requirement](https://github.com/LongVoBi37/Object-Tracking-Application/blob/3fb1f28e64fc71edc44f7d32a89fcc77e8681496/ProjectDetail232.pdf)
 
 ## Overview
 The **Object Tracking Application** is designed to provide an efficient solution for real-time object detection and tracking, leveraging the **RISC-V** architecture and the **VexRiscv CPU core**. This project demonstrates the power and flexibility of the RISC-V instruction set architecture in executing AI-powered tasks, with a focus on object tracking in dynamic environments. The system is optimized for performance and accuracy, making it suitable for various applications.
