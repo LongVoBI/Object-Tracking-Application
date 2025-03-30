@@ -1,9 +1,12 @@
-# Object-Tracking-Application
-LOGIC DESIGN PROJECT (CO3091)  Assignment (Semester: 232, Duration: 06 weeks)
+# Object Tracking Application
+This is LOGIC DESIGN PROJECT (CO3091) Assignment (Semester: 232, Duration: 06 weeks)
+## Overview
+The **Object Tracking Application** is designed to provide an efficient solution for real-time object detection and tracking, leveraging the **RISC-V** architecture and the **VexRiscv CPU core**. This system integrates cutting-edge algorithms, including **YOLOv4-tiny** for object detection and **Kalman Filter** for predictive tracking, ensuring high-performance operation even on resource-constrained devices.
 
-#### **Introduction**
-The Object Tracking Application is designed to provide an efficient solution for real-time object detection and tracking using a RISC-V-based architecture. By integrating advanced algorithms such as YOLOv4-tiny for object detection and the Kalman Filter for tracking, this system is optimized for performance while running on the VexRiscv CPU core. This project leverages the flexibility and power of the RISC-V instruction set architecture to perform tasks traditionally handled by more resource-heavy processors.
+This project demonstrates the power and flexibility of the RISC-V instruction set architecture in executing AI-powered tasks, with a focus on object tracking in dynamic environments. The system is capable of identifying and tracking objects across frames, making it highly suitable for use cases in **surveillance**, **robotics**, **autonomous navigation**, and **smart environments**.
 
-The system tracks moving objects in dynamic environments, providing critical insights for fields like surveillance, robotics, and autonomous navigation. By combining object detection, predictive tracking, and optimization algorithms such as the Hungarian Algorithm, the application ensures precise and efficient tracking in real time, even in complex and cluttered environments.
-
-This project highlights the potential of RISC-V in enabling AI-powered applications with reduced resource consumption, making it an ideal choice for systems with limited computational resources.
+## Key Features
+- **Real-time Object Detection**: Utilizes the lightweight **YOLOv4-tiny** model for fast and accurate object detection.
+- **Predictive Tracking**: Implements **Kalman Filter** for continuous tracking and prediction of object locations.
+- **Efficient Optimization**: Integrates the **Hungarian Algorithm** for optimal task assignment in tracking applications.
+- **RISC-V Optimization**: Runs efficiently on RISC-V architecture using the VexRiscv CPU core.
