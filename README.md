@@ -1,17 +1,16 @@
 # Object Tracking Application
 This is LOGIC DESIGN PROJECT (CO3091) Assignment (Semester: 232, Duration: 06 weeks)
-## Overview
-The **Object Tracking Application** is designed to provide an efficient solution for real-time object detection and tracking, leveraging the **RISC-V** architecture and the **VexRiscv CPU core**. This system integrates cutting-edge algorithms, including **YOLOv4-tiny** for object detection and **Kalman Filter** for predictive tracking, ensuring high-performance operation even on resource-constrained devices.
 
-This project demonstrates the power and flexibility of the RISC-V instruction set architecture in executing AI-powered tasks, with a focus on object tracking in dynamic environments. The system is capable of identifying and tracking objects across frames, making it highly suitable for use cases in **surveillance**, **robotics**, **autonomous navigation**, and **smart environments**.
+## Overview
+The **Object Tracking Application** is designed to provide an efficient solution for real-time object detection and tracking, leveraging the **RISC-V** architecture and the **VexRiscv CPU core**. This project demonstrates the power and flexibility of the RISC-V instruction set architecture in executing AI-powered tasks, with a focus on object tracking in dynamic environments. The system is optimized for performance and accuracy, making it suitable for various applications.
 
 ## Key Features
 - **Real-time Object Detection**: Utilizes the lightweight **YOLOv4-tiny** model for fast and accurate object detection.
 - **Predictive Tracking**: Implements **Kalman Filter** for continuous tracking and prediction of object locations.
 - **Efficient Optimization**: Integrates the **Hungarian Algorithm** for optimal task assignment in tracking applications.
 - **RISC-V Optimization**: Runs efficiently on RISC-V architecture using the VexRiscv CPU core.
-  
-For an in-depth understanding of the system design, implementation details, and performance evaluation, refer to the full project report available [here](docs/Logics_Design.pdf).
+
+For an in-depth understanding of the system design, implementation details, and performance evaluation, refer to the full project report available [here](https://github.com/LongVoBI/Object-Tracking-Application/blob/main/docs/Logics_Design.pdf).
 
 **References Section**:
   1. [VexRiscv Ultra96 GitHub Repository](https://github.com/lp6m/VexRiscv_Ultra96)
